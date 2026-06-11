@@ -51,10 +51,48 @@
 .left h1{
     font-size: 50px;
 }
+.twoo{
+    display: flex;
+    justify-content: space-evenly;
+}
+.one1{
+    width: 30%;
+    height: 150px;
+    box-shadow: 0px 0px 3px;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.big{
+    width: 100%;
+    height: 1000px;
+    margin-top: 100px;
 
-
-
-
+}
+.one2{
+    width: 300px;
+    height: 350px;
+    box-shadow: 0px 0px 4px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+}
+.poe{
+    text-align: center;
+}
+.three{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+}
+.foto{
+    display: block;
+    margin: auto;
+}
 
 
 
@@ -64,6 +102,7 @@
     .lr{
         display: flex;
         flex-direction: column-reverse;
+        height: 800px;
     }
     .left{
         margin: auto;
@@ -78,6 +117,28 @@
         margin: auto;
         margin-top: 100px;
     }
+    .twoo{
+        display: block;
+    }
+    .one1{
+        width: 70%;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .three{
+        display: block;
+    }
+    .one2{
+        margin: auto;
+        margin-top: 30px;
+    }
+    .big{
+        height: 1400px;
+    }
+    .foto{
+        width: 100%;
+    }
+
 }
 
 
@@ -94,6 +155,16 @@
     }
     .left{
         margin-left: 120px;
+    }
+    .three{
+        display: block;
+    }
+    .one2{
+        margin: auto;
+        margin-top: 30px;
+    }
+    .foto{
+        width: 100%;
     }
 
 }
