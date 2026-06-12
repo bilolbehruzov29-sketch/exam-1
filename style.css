@@ -188,6 +188,7 @@
     max-width: 1000px;
     margin: auto;
     justify-content: space-between;
+    margin-top: 100px;
 }
 .sdsd{
     width: 80%;
@@ -210,8 +211,41 @@
     color: gray;
 }
 
+.pomo{
+    max-width: 1000px;
+    height: 600px;
+    margin: auto;
 
+}
+.three9
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.one123{
+    width: 250px;
+    height: 350px;
+    box-shadow: 0px 0px 3px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    padding: 30px;   
+}
+.xcxc1{
+    width: 30%;
+    margin-top: 30px;
+}
+.sl{
+    text-align: center;
+}
 
+.zay{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
 
 
 
@@ -310,6 +344,7 @@
         width: 70%;
         margin: auto;
     }
+    
     .lr3{
         display: block;
         width: 100%;
@@ -337,6 +372,19 @@
     }
     .left{
         width: 100%;
+    }
+    .up11{
+        height: 1000px;
+        margin-top: 500px;
+    }
+    .three9{
+        display: block;
+        display: flex;
+        flex-direction: column;
+        row-gap: 50px;
+    }
+    .one123{
+        margin: auto;
     }
 
 }
@@ -425,5 +473,29 @@
     }
     .right33{
         margin: auto;
+    }
+    .up11{
+        margin-top: 400px;
+        height: 1200px;
+    }
+    .three9{
+        display: block;
+        display: flex;
+        flex-direction: column;
+        row-gap: 50px;
+    }
+    .one123{
+        display: flex;
+        margin: auto;
+    }
+    .pomo{
+        width: 100%;
+        height: 1600px;
+    }
+    .zay1{
+        width: 50%;
+    }
+    .zay{
+        width: 50%;
     }
 }
