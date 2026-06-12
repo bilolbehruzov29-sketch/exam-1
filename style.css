@@ -246,8 +246,27 @@
     flex-direction: column;
     row-gap: 30px;
 }
-
-
+.rez{
+    max-width: 1000px;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.nuy{
+    width: 400px;
+}
+.lrft34{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    margin-top: 50px;
+}
+.lrft34 p{
+    color: gray;
+}
 
 
 
@@ -386,7 +405,24 @@
     .one123{
         margin: auto;
     }
-
+    .pomo{
+        height: 1600px;
+    }
+    .rez{
+        width: 100%;
+        height: 800px;
+        display: block;
+        margin: auto;
+    }
+    .lrft34{
+        margin: auto;
+    }
+    .nuy{
+        width: 90%;
+        display: block;
+        margin: auto;
+        margin-top: 60px;
+    }
 }
 
 
@@ -497,5 +533,19 @@
     }
     .zay{
         width: 50%;
+    }
+    .rez{
+        width: 100%;
+        height: 600px;
+        display: block;
+        margin: auto;
+    }
+    .lrft34{
+        margin: auto;
+    }
+    .nuy{
+        display: block;
+        margin: auto;
+        margin-top: 60px;
     }
 }
