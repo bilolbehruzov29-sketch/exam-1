@@ -288,6 +288,55 @@
 .right56 p{
     color: gray;
 }
+.foter{
+    width: 100%;
+    height: 400px;
+    background: black;
+    color: white;
+}
+td{
+    padding: 10px;
+}
+table h2{
+    padding: 20px;
+}
+table p{
+    padding: 10px;
+}
+.foter{
+    display: flex;
+    justify-content: space-evenly;
+}
+.jrei {
+    width: 250px;
+    color: #888;
+}
+
+.sdl {
+    border-top: 1px solid #494949;
+}
+
+.qwk {
+    text-align: center;
+    font-size: 28px;
+    color: #8a8a8a;
+}
+
+.xzt {
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+
+.tyu {
+    width: 35px;
+    height: 35px;
+    border: 1px solid #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
@@ -296,6 +345,12 @@
         display: flex;
         flex-direction: column-reverse;
         height: 800px;
+    }
+    .foter{
+        height: 200px;
+    }
+    .sdl{
+        /* display: none; */
     }
     .left{
         margin: auto;
@@ -458,6 +513,18 @@
         width: 80%;
         margin: auto;
     }
+    .leftend{
+        display: none;
+    }
+    .jrei{
+        width: 100%;
+    }
+    .rightend{
+        width: 100%;
+    }
+    .abc{
+        text-align: center;
+    }
 }
 
 
@@ -598,5 +665,20 @@
     }
     .right56{
         margin: auto;
+    }
+    .leftend{
+        display: none;
+    }
+    .jrei{
+        width: 100%;
+    }
+    .rightend{
+        width: 100%;
+    }
+    .abc{
+        text-align: center;
+    }
+    .foter{
+        height: 250px;
     }
 }
