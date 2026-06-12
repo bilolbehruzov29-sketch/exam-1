@@ -106,7 +106,30 @@
     margin-top: 100px;
 }
 
-
+.up1{
+    width: 100%;
+    height: 1000px;
+    background: #F2F2F2;
+}
+.twoo1{
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.one5{
+    display: flex;
+    width: 430px;
+    height: 200px;
+    align-items: center;
+    gap: 30px;
+}
+.right6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+}
 
 
 
@@ -141,6 +164,7 @@
         display: block;
     }
     .one2{
+        width: 70%;
         margin: auto;
         margin-top: 30px;
     }
@@ -164,6 +188,16 @@
         width: 90%;
         margin: auto;
         margin-top: 80px;
+    }
+    .up1{
+        height: 1400px;
+    }
+    .twoo1{
+        display: block;
+    }
+    .one5{
+        width: 80%;
+        margin: auto;
     }
 
 }
@@ -205,6 +239,16 @@
     }
     .right1{
         width: 80%;
+        margin: auto;
+    }
+    .up1{
+        height: 1600px;
+    }
+    .twoo1{
+        display: block;
+    }
+    .one5{
+        width: 60%;
         margin: auto;
     }
 
