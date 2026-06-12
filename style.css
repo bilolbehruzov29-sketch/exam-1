@@ -32,6 +32,9 @@
     display: flex;
     justify-content: space-evenly;
 }
+.ser{
+    width: 100%;
+}
 .pop{
     width: 200px;
     height: 50px;
@@ -99,7 +102,7 @@
     margin: auto;
 }
 .left1{
-    width: 500px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     row-gap: 50px;
@@ -142,8 +145,9 @@
 .ber{
     width: 400px;
 }
-.right22{
+.right221{
     width: 500px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     row-gap: 40px;
@@ -197,7 +201,14 @@
 .right33 p{
     color: gray;
 }
-
+.up11{
+    margin: auto;
+    max-width: 1000px;
+    height: 800px;
+}
+.left1 p{
+    color: gray;
+}
 
 
 
@@ -289,23 +300,20 @@
         width: 80%;
         margin: auto;
     }
-    .lr3{
-        height: 700px;
-        display: block;
-    }
     .ber{
         display: block;
         margin: auto;
         width: 80%;
     }
-    .right22{
+    .right221{
         margin-top: 100px;
         width: 70%;
         margin: auto;
     }
     .lr3{
+        display: block;
         width: 100%;
-        height: 1200px;
+        height: 800px;
         display: flex;
         flex-direction: column-reverse;
         row-gap: 60px;
@@ -395,13 +403,14 @@
     .for{
         height: 800px;
     }
-    .right22{
+    .right221{
         margin: auto;
         margin-top: 80px;
+        height: 200px;
     }
     .lr3{
         width: 100%;
-        height: 1200px;
+        height: 800px;
         display: flex;
         flex-direction: column-reverse;
         row-gap: 60px;
