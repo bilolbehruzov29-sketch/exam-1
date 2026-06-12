@@ -151,6 +151,57 @@
 .right22 p{
     color: gray;
 }
+.ar{
+    width: 100%;
+    height: 1600px;
+}
+
+.sir{
+    text-align: center;
+}
+.three33{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.one111{
+    width: 200px;
+    height: 160px;
+    text-align: center;
+    padding: 20px;
+}
+
+.for{
+    max-width: 1000px;
+    margin: auto;
+}
+.www{
+    width: 100%;
+    margin: auto;
+}
+.lr3{
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    justify-content: space-between;
+}
+.sdsd{
+    width: 80%;
+}
+.right33{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+}
+.right33 p{
+    color: gray;
+}
+
+
+
+
+
 
 
 
@@ -217,6 +268,20 @@
     .up1{
         height: 1400px;
     }
+    .header{
+        height: 100px;
+        display: block;
+        gap: 30px;
+    }
+    .cvcvcv{
+        display: block;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .two{
+        display: block;
+        margin: auto;
+    }
     .twoo1{
         display: block;
     }
@@ -237,6 +302,33 @@
         margin-top: 100px;
         width: 70%;
         margin: auto;
+    }
+    .lr3{
+        width: 100%;
+        height: 1200px;
+        display: flex;
+        flex-direction: column-reverse;
+        row-gap: 60px;
+    }
+    .left33{
+        margin: auto;
+    }
+    .sdsd{
+        display: block;
+        width: 80%;
+        margin: auto;
+    }
+    .right33{
+        margin: auto;
+    }
+    .three33{
+        display: block;
+    }
+    .one111{
+        margin: auto;
+    }
+    .left{
+        width: 100%;
     }
 
 }
@@ -291,7 +383,7 @@
         margin: auto;
     }
     .lr3{
-        height: 600px;
+        height: 700px;
         display: block;
         margin: auto;
     }
@@ -300,9 +392,29 @@
         margin: auto;
 
     }
+    .for{
+        height: 800px;
+    }
     .right22{
         margin: auto;
         margin-top: 80px;
     }
-
+    .lr3{
+        width: 100%;
+        height: 1200px;
+        display: flex;
+        flex-direction: column-reverse;
+        row-gap: 60px;
+    }
+    .left33{
+        margin: auto;
+    }
+    .sdsd{
+        display: block;
+        width: 80%;
+        margin: auto;
+    }
+    .right33{
+        margin: auto;
+    }
 }
