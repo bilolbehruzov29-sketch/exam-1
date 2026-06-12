@@ -130,6 +130,31 @@
     align-items: center;
     row-gap: 20px;
 }
+.lr3{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    max-width: 1000px;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.ber{
+    width: 400px;
+}
+.right22{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+}
+.right22 p{
+    color: gray;
+}
+
+
+
+
 
 
 
@@ -199,6 +224,20 @@
         width: 80%;
         margin: auto;
     }
+    .lr3{
+        height: 700px;
+        display: block;
+    }
+    .ber{
+        display: block;
+        margin: auto;
+        width: 80%;
+    }
+    .right22{
+        margin-top: 100px;
+        width: 70%;
+        margin: auto;
+    }
 
 }
 
@@ -250,6 +289,20 @@
     .one5{
         width: 60%;
         margin: auto;
+    }
+    .lr3{
+        height: 600px;
+        display: block;
+        margin: auto;
+    }
+    .ber{
+        display: block;
+        margin: auto;
+
+    }
+    .right22{
+        margin: auto;
+        margin-top: 80px;
     }
 
 }
